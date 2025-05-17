@@ -81,6 +81,6 @@ The visual odometry pipeline consists of the following steps, implemented in the
 
 - Scale ambiguity in monocular VO.
 - Drift over long sequences.
-- Hardcoded parameters (e.g., 125 images, 10 matches).
+
 
 ---

@@ -69,6 +69,11 @@ The visual odometry pipeline consists of the following steps, implemented in the
 4. **Output**: `frames/trajectory.png`.
 
 ---
+## Visualization and output
+
+![alt text](data/trajectory.png)
+
+---
 ## Potential Improvements
 
 1. **Robust Matching**: Use geometric constraints (e.g., epipolar geometry) to filter outliers.
